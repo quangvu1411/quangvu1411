@@ -2,30 +2,26 @@
 <h3 align="center">Being a programmer</h3>
 
 ## 💬 Ask me about
-- Backend web development (Python, TypeScript, PHP)
-- Frontend web development (Vue.js, React.js)
+- I can build a website use Wordpress
+- Backend web development (NodeJS, Laravel, Php)
+- Frontend web development (Html, Css, Tailwind, Vue.js)
 - Docker
 - Deep Learning and Machine Learning
 - Cloud Architecture
 - Design Patterns
-- Gardening (Bonsai enthusiast :evergreen_tree:)
-- Side projects (Lazy Link ft. @dmfigueroa)
 
 ## 📅 Hobbies
-- Solve programming problems at Codeforces, UVa, LeetCode
-- Watch anime and TV shows
+- Watch anime Doraemon and Vlog
 - Read some manga
 - Play videogames
 - etc...
 
 ## 💻 Current projects
-- viajin [WIP] - Side project
-- budget [WIP] - Side project
-- todo [WIP] - Side project
+- Heavenmsg
+- Executive Nus
+- HouseOfKpop
+- ...
 
 ## 📚 Learning
-- React.js with my wife 👩‍❤️‍👨
-- Hono.js with RPC
-- Remix
+- React.js with my friend
 - TypeScript
-- Cloudflare workers
